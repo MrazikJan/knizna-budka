@@ -1,0 +1,6 @@
+const map=L.map("map").setView([48.1486,17.1077],13);
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
+let budky=[],userMarker=null,nearestMarker=null;
+fetch("budky.json").then(r=>r.json()).then(data=>{budky=data;data.forEach(b=>L.marker([b.lat,b.lng]).addTo(map).bindPopup(b.nazov));});
+document.getElementById("btn").addEventListener("click",najdiNajblizsiu);
+function najdiNajblizsiu(){navigator.geolocation.getCurrentPosition(pos=>{const lat=pos.coords.latitude,lng=pos.coords.longitude;if(userMarker)map.removeLayer(userMarker);userMarker=L.circleMarker([lat,lng],{radius:8,color:"blue",fillOpacity:1}).addTo(map);let min=Infinity,n=null;budky.forEach(b=>{const d=map.distance([lat,lng],[b.lat,b.lng]);if(d<min){min=d;n=b;}});if(!n)return;if(nearestMarker)map.removeLayer(nearestMarker);nearestMarker=L.circle([n.lat,n.lng],{radius:50,color:'green'}).addTo(map);map.flyTo([n.lat,n.lng],16);document.getElementById('status').innerHTML=`<strong>${n.nazov}</strong><br>Vzdialenosť: ${Math.round(min)} m<br><a class="nav-button" target="_blank" href="https://maps.google.com/?q=${n.lat},${n.lng}">Navigovať</a>`;},err=>{document.getElementById('status').textContent='Povoľ GPS lokalizáciu alebo otvor aplikáciu cez HTTPS.';});}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nazov": "Knižná búdka Medická záhrada",
+    "lat": 48.149148,
+    "lng": 17.120271
+  },
+  {
+    "id": 2,
+    "nazov": "Knižná búdka Mudroňova",
+    "lat": 48.150163,
+    "lng": 17.090521
+  },
+  {
+    "id": 3,
+    "nazov": "Knižná búdka Teplická",
+    "lat": 48.173759,
+    "lng": 17.126421
+  }
+]
