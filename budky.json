@@ -1,698 +1,698 @@
 [
   {
-    "name": "Dolný Kubín",
-    "latitude": 49.2143501,
-    "longitude": 19.3047535,
-    "description": "Knižná búdka sa nachádza pri ihrisku Žihadielko na sídlisku Brezovec.<br><br>O búdku sa stará: METRO, o. z.<br>E: koordinator@projektmetro.sk"
+    "id": 1,
+    "nazov": "Dolný Kubín",
+    "lat": 49.2143501,
+    "lng": 19.3047535
   },
   {
-    "name": "Dolný Kubín",
-    "latitude": 49.2125013,
-    "longitude": 19.3061001,
-    "description": "Knižná búdka sa nachádza vo vnútrobloku Mierová - Odbojárov.<br><br>O búdku sa stará: METRO, o. z.<br>E: koordinator@projektmetro.sk"
+    "id": 2,
+    "nazov": "Dolný Kubín",
+    "lat": 49.2125013,
+    "lng": 19.3061001
   },
   {
-    "name": "ECCO Outlet Martin",
-    "latitude": 49.0914788,
-    "longitude": 18.9403181,
-    "description": "Knižná búdka sa nachádza pri predajni ECCO Outlet Martin. <br><br>O búdku sa stará ECCO<br> T: 02/330 469 91<br>W: https://www.facebook.com/EccoSlovenskaRepublika"
+    "id": 3,
+    "nazov": "ECCO Outlet Martin",
+    "lat": 49.0914788,
+    "lng": 18.9403181
   },
   {
-    "name": "Mesto Vrútky",
-    "latitude": 49.1116426,
-    "longitude": 18.9235901,
-    "description": "Knižná búdka sa nachádza vo Vrútkach na pešej zóne pri Kultúrnej sále kriváň a Knižnici Hany Zelinovej. O búdku sa starajú pracovníci knižnice.<br><br>E: kniznica@vrutky.sk<br>T: +421 434 281 219"
+    "id": 4,
+    "nazov": "Mesto Vrútky",
+    "lat": 49.1116426,
+    "lng": 18.9235901
   },
   {
-    "name": "Martin - Kolónia Hviezda",
-    "latitude": 49.1078491,
-    "longitude": 18.9069502,
-    "description": "Knižná búdka sa nachádza v Martine - mestská časť Priekopa, ulica Kolónia Hviezda. Upevnená je na drevenej zastávke MHD. O búdku sa stará Občianske združenie METRO.<br><br>E: koordinator@projektmetro.sk"
+    "id": 5,
+    "nazov": "Martin - Kolónia Hviezda",
+    "lat": 49.1078491,
+    "lng": 18.9069502
   },
   {
-    "name": "Obec Sučany",
-    "latitude": 49.1007391,
-    "longitude": 18.9910888,
-    "description": "Knižná búdka sa nachádza pri obecnom úrade, starajú sa o ňu pracovníci miestnej knižnice.<br><br>E: kniznica@sucany.sk<br>T: +421 434 293 188"
+    "id": 6,
+    "nazov": "Obec Sučany",
+    "lat": 49.1007391,
+    "lng": 18.9910888
   },
   {
-    "name": "GGB Slovakia",
-    "latitude": 49.0931425,
-    "longitude": 18.9704773,
-    "description": "Knižná búdka sa nachádza pred závodom spoločnosti GGB Slovakia O búdku sa stará GGB Slovakia.<br><br>https://www.ggbearings.com/"
+    "id": 7,
+    "nazov": "GGB Slovakia",
+    "lat": 49.0931425,
+    "lng": 18.9704773
   },
   {
-    "name": "Dolné Záturčie",
-    "latitude": 49.092969,
-    "longitude": 18.918817,
-    "description": "Knižná búdka sa nachádza pri zastávke MHD, o búdku sa stará Róbert Gajdoš<br><br>E: robert.gajdos@martin.sk<br>T: +421 951 124 473"
+    "id": 8,
+    "nazov": "Dolné Záturčie",
+    "lat": 49.092969,
+    "lng": 18.918817
   },
   {
-    "name": "Záturčie",
-    "latitude": 49.0942946,
-    "longitude": 18.9190555,
-    "description": "Knižná búdka sa nachádza pri Klubovni OZ Turiec pre deti. O búdku sa starajú členovia OZ.<br><br>E: info@turiecpredeti.sk"
+    "id": 9,
+    "nazov": "Záturčie",
+    "lat": 49.0942946,
+    "lng": 18.9190555
   },
   {
-    "name": "OC Tulip",
-    "latitude": 49.0846875,
-    "longitude": 18.9249662,
-    "description": "Knižná búdka sa nachádza pri detskom ihrisku vedľa OC Tulip. O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 10,
+    "nazov": "OC Tulip",
+    "lat": 49.0846875,
+    "lng": 18.9249662
   },
   {
-    "name": "Martinus - Areál ZŤS",
-    "latitude": 49.0690766,
-    "longitude": 18.908098,
-    "description": "Knižná búdka sa nachádza v areáli bývalých ZŤS v Martine, pri centrále spoločnosti Martinus.<br><br>T: +421 918 117 403<br>E: lubomir.zila@martinus.sk"
+    "id": 11,
+    "nazov": "Martinus - Areál ZŤS",
+    "lat": 49.0690766,
+    "lng": 18.908098
   },
   {
-    "name": "MŠ Tajovského",
-    "latitude": 49.0704166,
-    "longitude": 18.9264366,
-    "description": "Knižná búdka sa nachádza v areáli MŠ Tajovského. O búdku sa stará škola.<br><br>T: +421 434 134 276"
+    "id": 12,
+    "nazov": "MŠ Tajovského",
+    "lat": 49.0704166,
+    "lng": 18.9264366
   },
   {
-    "name": "Slovenská národná knižnica",
-    "latitude": 49.069002,
-    "longitude": 18.9326484,
-    "description": "Knižná búdka sa nachádza na konci schodov, smerom k vchodu do Slovenskej národnej knižnice. O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 13,
+    "nazov": "Slovenská národná knižnica",
+    "lat": 49.069002,
+    "lng": 18.9326484
   },
   {
-    "name": "Železničná stanica Martin",
-    "latitude": 49.0651917,
-    "longitude": 18.9156929,
-    "description": "Knižná búdka sa nachádza po pravej strane nástupišťa na železničnej stanici v Martine. O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 14,
+    "nazov": "Železničná stanica Martin",
+    "lat": 49.0651917,
+    "lng": 18.9156929
   },
   {
-    "name": "Detské očné centrum LEXUM",
-    "latitude": 49.0653027,
-    "longitude": 18.9173961,
-    "description": "Knižná búdka sa nachádza v Martine, pri Dúhovke - detskom očnom centre UVEA. O búdku sa starajú pracovníci centra.<br><br>E: skolka@duhovka.sk"
+    "id": 15,
+    "nazov": "Detské očné centrum LEXUM",
+    "lat": 49.0653027,
+    "lng": 18.9173961
   },
   {
-    "name": "ZŠ Pavla Mudroňa",
-    "latitude": 49.067706,
-    "longitude": 18.920991,
-    "description": "Knižná búdka sa nachádza v areáli ZŠ Pavla Mudroňa. O búdku sa stará škola.<br><br>T: +421 434 230 059"
+    "id": 16,
+    "nazov": "ZŠ Pavla Mudroňa",
+    "lat": 49.067706,
+    "lng": 18.920991
   },
   {
-    "name": "Turčianska knižnica",
-    "latitude": 49.0658463,
-    "longitude": 18.9212655,
-    "description": "Knižná búdka sa nachádza v parku pred Turčianskou knižnicou, v centre mesta Martin, v blízkosti sú lavičky. <br>O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 17,
+    "nazov": "Turčianska knižnica",
+    "lat": 49.0658463,
+    "lng": 18.9212655
   },
   {
-    "name": "Hviezdoslavov park",
-    "latitude": 49.064175,
-    "longitude": 18.9243953,
-    "description": "Knižná búdka sa nachádza v Hviezdoslavovom parku, v centre mesta Martin, v blízkosti sú lavičky. O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 18,
+    "nazov": "Hviezdoslavov park",
+    "lat": 49.064175,
+    "lng": 18.9243953
   },
   {
-    "name": "Malá hora",
-    "latitude": 49.0663829,
-    "longitude": 18.9279307,
-    "description": "Knižná búdka sa nachádza pri detskom ihrisku na Malej hore. O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 19,
+    "nazov": "Malá hora",
+    "lat": 49.0663829,
+    "lng": 18.9279307
   },
   {
-    "name": "Gymnázium V. P. T., Martin",
-    "latitude": 49.0647044,
-    "longitude": 18.9296607,
-    "description": "V priestoroch gymnázia, na prízemí, si študenti navzájom nechávajú knihy, ktoré si môže ktokoľvek zobrať a prečítať. O miestno s knižkami sa stará samotné gymnázium.<br><br>E: office@gymmt.sk"
+    "id": 20,
+    "nazov": "Gymnázium V. P. T., Martin",
+    "lat": 49.0647044,
+    "lng": 18.9296607
   },
   {
-    "name": "Slovenské národné múzeum v Martine",
-    "latitude": 49.0636249,
-    "longitude": 18.92871,
-    "description": "Knižná búdka sa nachádza v múzejnej záhrade SNM. O búdku sa stará Anna Peťová, knihovníčka (Knižnica SNM v Martine).<br><br>E: anna.petova@snm.sk"
+    "id": 21,
+    "nazov": "Slovenské národné múzeum v Martine",
+    "lat": 49.0636249,
+    "lng": 18.92871
   },
   {
-    "name": "CVČ Kamarát",
-    "latitude": 49.0626293,
-    "longitude": 18.9273675,
-    "description": "Knižná búdka sa nachádza v priestoroch CVČ Kamarát. O búdku sa stará CVČ.<br><br>T: +421 434 133 651"
+    "id": 22,
+    "nazov": "CVČ Kamarát",
+    "lat": 49.0626293,
+    "lng": 18.9273675
   },
   {
-    "name": "Tomčany",
-    "latitude": 49.0622377,
-    "longitude": 18.9413492,
-    "description": "Knižná búdka sa nachádza pri zastávke MHD v Tomčanoch. O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 23,
+    "nazov": "Tomčany",
+    "lat": 49.0622377,
+    "lng": 18.9413492
   },
   {
-    "name": "ZŠ Nade Hejnej - Martin",
-    "latitude": 49.0576298,
-    "longitude": 18.9207105,
-    "description": "Knižná búdka sa nachádza pri ZŠ Nade Hejnej. <br>O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 24,
+    "nazov": "ZŠ Nade Hejnej - Martin",
+    "lat": 49.0576298,
+    "lng": 18.9207105
   },
   {
-    "name": "Ľadoveň - konečná MHD",
-    "latitude": 49.0525506,
-    "longitude": 18.9249477,
-    "description": "Knižná búdka sa nachádza v meste Martin, konečná MHD na Ľadovni. O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 25,
+    "nazov": "Ľadoveň - konečná MHD",
+    "lat": 49.0525506,
+    "lng": 18.9249477
   },
   {
-    "name": "Ľadoveň - ZŠ Kronera",
-    "latitude": 49.04963,
-    "longitude": 18.9243257,
-    "description": "Knižná búdka sa nachádza v meste Martin, pri ZŠ J. Kronera. O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 26,
+    "nazov": "Ľadoveň - ZŠ Kronera",
+    "lat": 49.04963,
+    "lng": 18.9243257
   },
   {
-    "name": "Jahodníky",
-    "latitude": 49.0555984,
-    "longitude": 18.9188785,
-    "description": "Knižná búdka sa nachádza v meste Martin, križovatka J. Šimka - Benkova. O búdku sa stará METRO, o. z.<br><br>E: koordinator@projektmetro.sk"
+    "id": 27,
+    "nazov": "Jahodníky",
+    "lat": 49.0555984,
+    "lng": 18.9188785
   },
   {
-    "name": "Obec Trebostovo",
-    "latitude": 49.0249139,
-    "longitude": 18.8607083,
-    "description": "Knižná búdka sa nachádza pri požiarnej zbrojnici v centre obce. O búdku sa stará Obec Trebostovo.<br><br>E: trebostovo@trebostovo.sk"
+    "id": 28,
+    "nazov": "Obec Trebostovo",
+    "lat": 49.0249139,
+    "lng": 18.8607083
   },
   {
-    "name": "Príbovce",
-    "latitude": 49.0041166,
-    "longitude": 18.8812695,
-    "description": "Knižná búdka sa nachádza pri Evanjelickom kostole v Príbovciach, o búdku sa stará Občianske združenie Zažnime svetlo a Ľubomír Žila.<br><br>E: lubomir.zila@gmail.com<br>T: +421 911 458 709"
+    "id": 29,
+    "nazov": "Príbovce",
+    "lat": 49.0041166,
+    "lng": 18.8812695
   },
   {
-    "name": "Príbovce - MŠ",
-    "latitude": 48.9968046,
-    "longitude": 18.8810474,
-    "description": "Knižná búdka sa nachádza pri materskej škole v Príbovciach, o búdku sa stará Občianske združenie Zažnime svetlo a Ľubomír Žila.<br><br>E: lubomir.zila@gmail.com<br>T: +421 911 458 709"
+    "id": 30,
+    "nazov": "Príbovce - MŠ",
+    "lat": 48.9968046,
+    "lng": 18.8810474
   },
   {
-    "name": "Vinné",
-    "latitude": 48.8063766,
-    "longitude": 21.9650038,
-    "description": "Knižná búdka sa nachádza v obci Vinné. O búdku sa stará Tibor Hlaváč.<br><br>E: hlavac598@gmail.com"
+    "id": 31,
+    "nazov": "Vinné",
+    "lat": 48.8063766,
+    "lng": 21.9650038
   },
   {
-    "name": "ZŠ, Školská 389, Sačurov",
-    "latitude": 48.8198917,
-    "longitude": 21.6921406,
-    "description": "Knižná búdka sa nachádza v priestoroch Základnej školy, Školská 389, Sačurov. O búdku sa stará ZŠ Sačurov.<br><br>E: zssacurov@gmail.com"
+    "id": 32,
+    "nazov": "ZŠ, Školská 389, Sačurov",
+    "lat": 48.8198917,
+    "lng": 21.6921406
   },
   {
-    "name": "Nová Polhora",
-    "latitude": 48.8323705,
-    "longitude": 21.3164141,
-    "description": "O búdku sa stará Občianske združenie Za krajšiu Polhoru.<br><br>E: zakrajsiupolhoru@gmail.com"
+    "id": 33,
+    "nazov": "Nová Polhora",
+    "lat": 48.8323705,
+    "lng": 21.3164141
   },
   {
-    "name": "Prešov",
-    "latitude": 48.9952035,
-    "longitude": 21.2487763,
-    "description": "Knižná búdka sa nachádza na Burianovej ulici 4 v Prešove.<br><br>E: luciajanosikovamusinska@gmail.com"
+    "id": 34,
+    "nazov": "Prešov",
+    "lat": 48.9952035,
+    "lng": 21.2487763
   },
   {
-    "name": "Krajská knižnica P.O. Hviezdoslava v Prešove",
-    "latitude": 48.9972784,
-    "longitude": 21.2430005,
-    "description": "Knižná búdka sa nachádza vo vnútorných priestoroch átria knižnice, v centre mesta Prešov. O búdku sa stará Krajská knižnica P. O. Hviezdoslava.<br><br>E: kniznica@kniznica-poh.sk"
+    "id": 35,
+    "nazov": "Krajská knižnica P.O. Hviezdoslava v Prešove",
+    "lat": 48.9972784,
+    "lng": 21.2430005
   },
   {
-    "name": "Košice - Šaca",
-    "latitude": 48.6319524,
-    "longitude": 21.1681764,
-    "description": "Knižná búdka sa nachádza na Jabloňovej ulici, v časti Košice - Šaca.<br><br>E: mondax1@gmail.com"
+    "id": 36,
+    "nazov": "Košice - Šaca",
+    "lat": 48.6319524,
+    "lng": 21.1681764
   },
   {
-    "name": "Jaklovce",
-    "latitude": 48.8761112,
-    "longitude": 20.9988987,
-    "description": "Knižná búdka sa nachádza na Priehradnej ulici pri Pytliakovej Krčme. O búdku sa starajú dievčatá čašníčky.<br><br>T: +421 948 191 561"
+    "id": 37,
+    "nazov": "Jaklovce",
+    "lat": 48.8761112,
+    "lng": 20.9988987
   },
   {
-    "name": "Slovenske Cehy, Gelnica",
-    "latitude": 48.8604874,
-    "longitude": 20.9174496,
-    "description": "Knižná búdka sa nachádza v mestskej časti Gelnice, Slovenské Cechy. O búdku sa starajú jej susedia.<br><br>E: martina.hedmegova@gmail.com"
+    "id": 38,
+    "nazov": "Slovenske Cehy, Gelnica",
+    "lat": 48.8604874,
+    "lng": 20.9174496
   },
   {
-    "name": "Spišská Nová Ves",
-    "latitude": 48.9446744,
-    "longitude": 20.565272,
-    "description": "Knižná búdka sa nachádza v Spišskej Novej Vsi v parku pri fontáne. O búdku sa stará Miroslav Uhrín.<br><br>E: miroslav.tralala@gmail.com"
+    "id": 39,
+    "nazov": "Spišská Nová Ves",
+    "lat": 48.9446744,
+    "lng": 20.565272
   },
   {
-    "name": "Gymnázium, Kukučínova 4239/1, Poprad",
-    "latitude": 49.0587581,
-    "longitude": 20.3126026,
-    "description": "V areáli Gymnázia je osadená knižná búdka, ktorú môžu využívať študenti, zamestnanci školy, ale aj rodičia, alebo ktokoľvek, kto navštívi školský areál. O búdku sa stará Gymnázium, Kukučínova 4239/1, Poprad.<br><br>E: skola@stary-gympel.sk"
+    "id": 40,
+    "nazov": "Gymnázium, Kukučínova 4239/1, Poprad",
+    "lat": 49.0587581,
+    "lng": 20.3126026
   },
   {
-    "name": "Mestská knižnica Kežmarok",
-    "latitude": 49.1359946,
-    "longitude": 20.4310697,
-    "description": "Knižná búdka sa nachádza v Kežmarku pri vchode do knižnice. O búdku sa stará mestská knižnica.<br><br>T: +421940604119<br>E: kniznicakk@gmail.com"
+    "id": 41,
+    "nazov": "Mestská knižnica Kežmarok",
+    "lat": 49.1359946,
+    "lng": 20.4310697
   },
   {
-    "name": "ZŠ Nižná brána Kežmarok",
-    "latitude": 49.1441605,
-    "longitude": 20.4319424,
-    "description": "Knižná búdka sa nachádza v Kežmarku pri vchode do Základnej školy Nižná brána. O búdku sa stará základná škola.<br><br>T: +421524523028<br>E: zsniznabrana@gmail.com"
+    "id": 42,
+    "nazov": "ZŠ Nižná brána Kežmarok",
+    "lat": 49.1441605,
+    "lng": 20.4319424
   },
   {
-    "name": "Tatranská Lomnica nástupište TEŽ",
-    "latitude": 49.1650147,
-    "longitude": 20.2790312,
-    "description": "Knižná búdka sa nachádza v Tatranskej Lomnici v areáli nástupišťa TEŽ. O búdku sa stará TATRANSKÝ PARLAMENT, o.z.<br><br>T: +421948366522<br>E: info@tatrament.sk"
+    "id": 43,
+    "nazov": "Tatranská Lomnica nástupište TEŽ",
+    "lat": 49.1650147,
+    "lng": 20.2790312
   },
   {
-    "name": "Park v Tatranskej Lomnici",
-    "latitude": 49.1666141,
-    "longitude": 20.2797896,
-    "description": "Knižná búdka sa nachádza v parku v Tatranskej Lomnici. O búdku sa stará TATRANSKÝ PARLAMENT, o.z.<br><br>T: +421948366522<br>E: info@tatrament.sk"
+    "id": 44,
+    "nazov": "Park v Tatranskej Lomnici",
+    "lat": 49.1666141,
+    "lng": 20.2797896
   },
   {
-    "name": "Tatranská Lomnica Hotel Slovan",
-    "latitude": 49.1689079,
-    "longitude": 20.2743651,
-    "description": "Knižná búdka sa nachádza v Tatranskej Lomnici, v parku neďaleko hotela Slovan. O búdku sa stará TATRANSKÝ PARLAMENT, o.z.<br><br>T: +421948366522<br>E: info@tatrament.sk"
+    "id": 45,
+    "nazov": "Tatranská Lomnica Hotel Slovan",
+    "lat": 49.1689079,
+    "lng": 20.2743651
   },
   {
-    "name": "Revúca",
-    "latitude": 48.6805442,
-    "longitude": 20.1185988,
-    "description": "Knižná búdka sa nachádza v meste Revúca, v parku pri Mierovej ulici. O búdku sa stará Mesto Revúca.<br><br>E: andrea.pasiakova@revuca.sk"
+    "id": 46,
+    "nazov": "Revúca",
+    "lat": 48.6805442,
+    "lng": 20.1185988
   },
   {
-    "name": "Nižná Boca",
-    "latitude": 48.9484536,
-    "longitude": 19.7699963,
-    "description": "Knižná búdka sa nachádza v obci Nižná Boca. O búdku sa stará Silvia Rísiková.<br><br>E: risikova.silvia@gmail.com"
+    "id": 47,
+    "nazov": "Nižná Boca",
+    "lat": 48.9484536,
+    "lng": 19.7699963
   },
   {
-    "name": "Liptovský Mikuláš",
-    "latitude": 49.0865008,
-    "longitude": 19.6504513,
-    "description": "Knižná búdka sa nachádza v Liptovskom Mikuláši - mestská časť Podbreziny. O búdku sa stará Občianske združenie METRO.<br><br>E: koordinator@projektmetro.sk"
+    "id": 48,
+    "nazov": "Liptovský Mikuláš",
+    "lat": 49.0865008,
+    "lng": 19.6504513
   },
   {
-    "name": "Liptovský Mikuláš",
-    "latitude": 49.074697,
-    "longitude": 19.6200807,
-    "description": "Knižná búdka sa nachádza v Liptovskom Mikuláši - mestská časť Vrbica - Nábrežie, pri detskom ihrisku. O búdku sa stará Občianske združenie METRO.<br><br>E: koordinator@projektmetro.sk"
+    "id": 49,
+    "nazov": "Liptovský Mikuláš",
+    "lat": 49.074697,
+    "lng": 19.6200807
   },
   {
-    "name": "Liptovská knižnica",
-    "latitude": 49.0851076,
-    "longitude": 19.6120965,
-    "description": "V knižničnom parčíku Liptovskej knižnice G. F. Belopotockého v Liptovskom Mikuláši sú 3 knižné búdky. O búdky sa stará Liptovská knižnica.<br><br>E: riaditel@kniznicagfb.sk"
+    "id": 50,
+    "nazov": "Liptovská knižnica",
+    "lat": 49.0851076,
+    "lng": 19.6120965
   },
   {
-    "name": "Zákamenné",
-    "latitude": 49.3870555,
-    "longitude": 19.2959162,
-    "description": "Knižná búdka sa nachádza na Námestí J. Vojtaššáka v obci Zákamenné. O búdku sa starajú Krásy Oravy a Kníhkupectvo Auraknihy.sk.<br><br>E: info@krasyoravy.sk"
+    "id": 51,
+    "nazov": "Zákamenné",
+    "lat": 49.3870555,
+    "lng": 19.2959162
   },
   {
-    "name": "Základná škola M. Kukučína, Dolný Kubín",
-    "latitude": 49.2109704,
-    "longitude": 19.2851462,
-    "description": "Knižná búdka sa nachádza v areály Základnej školy M. Kukučína v Dolnom Kubíne. O búdku sa stará ZŠ M. Kukučína.<br><br>E: riaditelka@zsmkdk.sk"
+    "id": 52,
+    "nazov": "Základná škola M. Kukučína, Dolný Kubín",
+    "lat": 49.2109704,
+    "lng": 19.2851462
   },
   {
-    "name": "Bábkové divadlo na Rázcestí",
-    "latitude": 48.7391374,
-    "longitude": 19.1520459,
-    "description": "Knižná búdka sa nachádza pred Bábkovým divadlom na rázcestí v Banskej Bystrici. O búdku sa stará Bábkové divadlo na Rázcestí<br><br>E: bdnr@bdnr.sk"
+    "id": 53,
+    "nazov": "Bábkové divadlo na Rázcestí",
+    "lat": 48.7391374,
+    "lng": 19.1520459
   },
   {
-    "name": "Pliešovce",
-    "latitude": 48.4241758,
-    "longitude": 19.1560509,
-    "description": "Knižná búdka sa nachádza na Hviezdoslavovej ulici. O búdku sa stará Obecná knižnica Pliešovce.<br><br>E: obec.kultura@pliesovce.sk<br>T: +421 455 562 401"
+    "id": 54,
+    "nazov": "Pliešovce",
+    "lat": 48.4241758,
+    "lng": 19.1560509
   },
   {
-    "name": "Pliešovce",
-    "latitude": 48.4253614,
-    "longitude": 19.1535955,
-    "description": "Knižná búdka sa nachádza na Sládkovičovej ulici. O búdku sa stará Obecná knižnica Pliešovce.<br><br>E: obec.kultura@pliesovce.sk<br>T: +421 455 562 401"
+    "id": 55,
+    "nazov": "Pliešovce",
+    "lat": 48.4253614,
+    "lng": 19.1535955
   },
   {
-    "name": "Kamence - Kysucké Nové Mesto",
-    "latitude": 49.309567,
-    "longitude": 18.7903388,
-    "description": "Knižná búdka sa nachádza v pre verejnosť otovorenom areáli záhrada Kamienok na sídlisku Kamence v Kysuckom Novom Meste. O búdku sa stará Kamienok n. o.<br><br>E: kamienok.no@gmail.com"
+    "id": 56,
+    "nazov": "Kamence - Kysucké Nové Mesto",
+    "lat": 49.309567,
+    "lng": 18.7903388
   },
   {
-    "name": "Mestská knižnica Kysucké Nové Mesto",
-    "latitude": 49.3038615,
-    "longitude": 18.7876759,
-    "description": "Knižná búdka sa nachádza pred budovou Mestskej knižnice Kysucké Nové Mesto, v centre mesta. O búdku sa stará Mestská knižnica.<br><br>E: kniznica@kysuckenovemesto.sk"
+    "id": 57,
+    "nazov": "Mestská knižnica Kysucké Nové Mesto",
+    "lat": 49.3038615,
+    "lng": 18.7876759
   },
   {
-    "name": "Kremnica",
-    "latitude": 48.7028632,
-    "longitude": 18.9205716,
-    "description": "Knižná búdka sa nachádza v Zechenterovej záhrade, mesto Kremnica. O búdku sa stará združenie Zlaté líšky.<br><br>E: zlatelisky@gmail.com"
+    "id": 58,
+    "nazov": "Kremnica",
+    "lat": 48.7028632,
+    "lng": 18.9205716
   },
   {
-    "name": "Žiar nad Hronom",
-    "latitude": 48.5863131,
-    "longitude": 18.865469,
-    "description": "Knižná búdka sa nachádza v Parku Štefana Moyzesa. O búdku sa stará Alžbeta Poloňová.<br><br>E: betysykorjakova@gmail.com"
+    "id": 59,
+    "nazov": "Žiar nad Hronom",
+    "lat": 48.5863131,
+    "lng": 18.865469
   },
   {
-    "name": "Lovčica-Trubín, časť Lovčica",
-    "latitude": 48.619335,
-    "longitude": 18.7937709,
-    "description": "Knižná búdka sa nachádza v obci Lovčica-Trubin, časť Lovčica. O búdku sa stará OZ Šidielko LT.<br><br>E: sidielkolt@gmail.com"
+    "id": 60,
+    "nazov": "Lovčica-Trubín, časť Lovčica",
+    "lat": 48.619335,
+    "lng": 18.7937709
   },
   {
-    "name": "Obec Lovčica-Trubín",
-    "latitude": 48.6167729,
-    "longitude": 18.7899079,
-    "description": "Knižná búdka sa nachádza v obci Lovčica-Trubin. O búdku sa stará Ana Stroffek.<br><br>E: anastroffek@gmail.com"
+    "id": 61,
+    "nazov": "Obec Lovčica-Trubín",
+    "lat": 48.6167729,
+    "lng": 18.7899079
   },
   {
-    "name": "Badaň",
-    "latitude": 48.3334921,
-    "longitude": 18.8404902,
-    "description": "Knižná búdka sa nachádza v obci Badaň, pri evanjelickom kostole. O búdku sa stará Veronika Kollárová<br><br>E: veronikakollarova@zoznam.sk"
+    "id": 62,
+    "nazov": "Badaň",
+    "lat": 48.3334921,
+    "lng": 18.8404902
   },
   {
-    "name": "Štúrovo",
-    "latitude": 47.7931237,
-    "longitude": 18.7196,
-    "description": "Knižná búdka sa nachádza v Štúrove, pri bytovom dome na Petőfiho ulici. O búdku sa stará Gonda Lívia.<br><br>E: bitterlvia2@gmail.com"
+    "id": 63,
+    "nazov": "Štúrovo",
+    "lat": 47.7931237,
+    "lng": 18.7196
   },
   {
-    "name": "Ladce",
-    "latitude": 49.039103,
-    "longitude": 18.284929,
-    "description": "Knižná búdka sa nachádza v obci Ladce. O búdku sa stará Základná škola Ladce.<br><br>E: zs.ladce@zoznam.sk"
+    "id": 64,
+    "nazov": "Ladce",
+    "lat": 49.039103,
+    "lng": 18.284929
   },
   {
-    "name": "Mojtín",
-    "latitude": 48.9835194,
-    "longitude": 18.4033711,
-    "description": "Knižná búdka sa nachádza v obci Mojtín. O búdku sa stará obecný úrad.<br><br>E: obecmojtin@obecmojtin.sk"
+    "id": 65,
+    "nazov": "Mojtín",
+    "lat": 48.9835194,
+    "lng": 18.4033711
   },
   {
-    "name": "Oslany - areál MŠ",
-    "latitude": 48.6329884,
-    "longitude": 18.4701144,
-    "description": "Knižná búdka sa nachádza v areáli MŠ v Oslanoch.<br><br>T: +421 46 549 1112<br>E: oslany.ms@gmail.com"
+    "id": 66,
+    "nazov": "Oslany - areál MŠ",
+    "lat": 48.6329884,
+    "lng": 18.4701144
   },
   {
-    "name": "Obec Nový Tekov",
-    "latitude": 48.2490173,
-    "longitude": 18.5154437,
-    "description": "Knižná búdka sa nachádza v obci Nový Tekov. O búdku sa stará Obecný úrad.<br><br>E: obec@novytekov.sk"
+    "id": 67,
+    "nazov": "Obec Nový Tekov",
+    "lat": 48.2490173,
+    "lng": 18.5154437
   },
   {
-    "name": "Nemocnica Levice - vchod na urgent",
-    "latitude": 48.2229491,
-    "longitude": 18.6145532,
-    "description": "Knižná búdka sa nachádza pred vchodom do nemocnice Agel Levice - urgentný príjem. O búdku sa stará Občianske združenie Bez javiska.<br><br>E: alica.zahorska@gmail.com<br>T: +421 905 351 627"
+    "id": 68,
+    "nazov": "Nemocnica Levice - vchod na urgent",
+    "lat": 48.2229491,
+    "lng": 18.6145532
   },
   {
-    "name": "Levice- Historická promenáda",
-    "latitude": 48.2234359,
-    "longitude": 18.6100218,
-    "description": "Knižná búdka sa nachádza v historickom parku. O búdku sa stará Občianske združenie Bez javiska.<br><br>E: alica.zahorska@gmail.com<br>T: +421 905 351 627"
+    "id": 69,
+    "nazov": "Levice- Historická promenáda",
+    "lat": 48.2234359,
+    "lng": 18.6100218
   },
   {
-    "name": "Levice - Námestie hrdinov",
-    "latitude": 48.2203466,
-    "longitude": 18.6070091,
-    "description": "Knižná búdka sa nachádza v parku na Námestí hrdinov. O búdku sa stará Občianske združenie Bez javiska.<br><br>E: alica.zahorska@gmail.com<br>T: +421 905 351 627"
+    "id": 70,
+    "nazov": "Levice - Námestie hrdinov",
+    "lat": 48.2203466,
+    "lng": 18.6070091
   },
   {
-    "name": "Levice - Levický hrad, Tekovské múzeum",
-    "latitude": 48.221266,
-    "longitude": 18.6009455,
-    "description": "Knižná búdka sa nachádza v areáli Levického hradu pri vchode do Tekovského múzea. O búdku sa stará Občianske združenie Bez javiska.<br><br>E: alica.zahorska@gmail.com<br>T: +421 905 351 627"
+    "id": 71,
+    "nazov": "Levice - Levický hrad, Tekovské múzeum",
+    "lat": 48.221266,
+    "lng": 18.6009455
   },
   {
-    "name": "Levice - Gymnázium A. Vrábla",
-    "latitude": 48.215666,
-    "longitude": 18.5935713,
-    "description": "Knižná búdka sa nachádza pred vchodom do Gymnázia A. Vrábla. O búdku sa stará Občianske združenie Bez javiska.<br><br>E: alica.zahorska@gmail.com<br>T: +421 905 351 627"
+    "id": 72,
+    "nazov": "Levice - Gymnázium A. Vrábla",
+    "lat": 48.215666,
+    "lng": 18.5935713
   },
   {
-    "name": "Levice - Malý Kiar",
-    "latitude": 48.1834019,
-    "longitude": 18.6769763,
-    "description": "O knižnú búdku sa stará Občianske združenie Bez javiska.<br><br>E: alica.zahorska@gmail.com<br>T: +421 905 351 627"
+    "id": 73,
+    "nazov": "Levice - Malý Kiar",
+    "lat": 48.1834019,
+    "lng": 18.6769763
   },
   {
-    "name": "Sídlisko Žitava, Vráble",
-    "latitude": 48.2440227,
-    "longitude": 18.3021394,
-    "description": "Knižná búdka sa nachádza na sídlisku Žitava na detskom ihrisku, v blízkosti sú lavičky. O búdku sa stará Mesto Vráble - MsÚ.<br><br>E: info@vrable.sk"
+    "id": 74,
+    "nazov": "Sídlisko Žitava, Vráble",
+    "lat": 48.2440227,
+    "lng": 18.3021394
   },
   {
-    "name": "Sídlisko Lúky, Vráble",
-    "latitude": 48.2463391,
-    "longitude": 18.3081324,
-    "description": "Knižná búdka sa nachádza na sídlisku Lúky. O búdku sa stará Mesto Vráble - MsÚ.<br><br>E: info@vrable.sk"
+    "id": 75,
+    "nazov": "Sídlisko Lúky, Vráble",
+    "lat": 48.2463391,
+    "lng": 18.3081324
   },
   {
-    "name": "Sídlisko Kaška, Vráble",
-    "latitude": 48.2416099,
-    "longitude": 18.3084035,
-    "description": "Knižná búdka sa nachádza na sídlisku Kaška. O búdku sa stará Mesto Vráble - MsÚ.<br><br>E: info@vrable.sk"
+    "id": 76,
+    "nazov": "Sídlisko Kaška, Vráble",
+    "lat": 48.2416099,
+    "lng": 18.3084035
   },
   {
-    "name": "Trenčín",
-    "latitude": 48.877112,
-    "longitude": 18.0400332,
-    "description": "Knižná búdka sa nachádza na Saratovskej ulici v Trenčíne. O búdku sa stará SVB.<br><br>E: svb2652@gmail.com"
+    "id": 77,
+    "nazov": "Trenčín",
+    "lat": 48.877112,
+    "lng": 18.0400332
   },
   {
-    "name": "Obecný úrad Štvrtok",
-    "latitude": 48.8205746,
-    "longitude": 17.8821456,
-    "description": "Knižná búdka sa nachádza pri Obecnom úrade v obci Štvrtok. O búdku sa stará Obecný úrad.<br><br>E: obec.stvrtok@stonline.sk"
+    "id": 78,
+    "nazov": "Obecný úrad Štvrtok",
+    "lat": 48.8205746,
+    "lng": 17.8821456
   },
   {
-    "name": "Modrová",
-    "latitude": 48.6440751,
-    "longitude": 17.8951675,
-    "description": "Knižná búdka sa nachádza v obci Modrová. O búdku sa stará obecný úrad.<br><br>E: starosta@modrova.eu.sk"
+    "id": 79,
+    "nazov": "Modrová",
+    "lat": 48.6440751,
+    "lng": 17.8951675
   },
   {
-    "name": "Obec Dvorníky",
-    "latitude": 48.3560847,
-    "longitude": 17.7972523,
-    "description": "Knižná búdka sa nachádza v obci Dvorníky, v parku pri vstupe do kostola. O búdku sa stará Stanislav Miko.<br><br>E: stanislav.miko@icloud.com"
+    "id": 80,
+    "nazov": "Obec Dvorníky",
+    "lat": 48.3560847,
+    "lng": 17.7972523
   },
   {
-    "name": "ZŠ Veľké Zálužie",
-    "latitude": 48.3104162,
-    "longitude": 17.938517,
-    "description": "Knižná búdka sa nachádza v obci Veľké Zálužie, na malom ihrisku za Základnou školou. O búdku sa stará Knižnica Veľké Zálužie<br><br>E: kniznica@velkezaluzie.eu"
+    "id": 81,
+    "nazov": "ZŠ Veľké Zálužie",
+    "lat": 48.3104162,
+    "lng": 17.938517
   },
   {
-    "name": "Zbehy",
-    "latitude": 48.3632804,
-    "longitude": 18.0194838,
-    "description": "Knižná búdka sa nachádza pri hádzanárskom ihrisku v Zbehoch  O búdku sa stará Obecná knižnica Zbehy,<br><br>E: silvia.sosova@gmail.com"
+    "id": 82,
+    "nazov": "Zbehy",
+    "lat": 48.3632804,
+    "lng": 18.0194838
   },
   {
-    "name": "Nitra - ZŠ Topoľová",
-    "latitude": 48.3110649,
-    "longitude": 18.1042924,
-    "description": "Knižná búdka sa nachádza v areáli ZŠ na Topoľovej ulici v Nitre. O búdku sa stará škola.<br><br>E: riaditel@zstopolova.sk<br>T: +421 376 410 030"
+    "id": 83,
+    "nazov": "Nitra - ZŠ Topoľová",
+    "lat": 48.3110649,
+    "lng": 18.1042924
   },
   {
-    "name": "Tvrdošovce - Obecný úrad",
-    "latitude": 48.0943079,
-    "longitude": 18.0664226,
-    "description": "Darovanie alebo výmena kníh funguje v priestoroch Obecného domu Tvrdošovce, kde sa nachádza aj knižnica. O priestory sa stará Obecný úrad Tvrdošovce.<br><br>E: starosta@tvrdosovce.sk"
+    "id": 84,
+    "nazov": "Tvrdošovce - Obecný úrad",
+    "lat": 48.0943079,
+    "lng": 18.0664226
   },
   {
-    "name": "Brezová pod Bradlom",
-    "latitude": 48.6660024,
-    "longitude": 17.5387947,
-    "description": "Knižná búdka sa nachádza v Brezovej pod Bradlom, v parčíku vedľa autobusovej stanice. O búdku sa stará samospráva.<br><br>T: +421346942211<br>E: mesto@brezova.sk"
+    "id": 85,
+    "nazov": "Brezová pod Bradlom",
+    "lat": 48.6660024,
+    "lng": 17.5387947
   },
   {
-    "name": "Univerzitná knižnica UCM v Trnave",
-    "latitude": 48.3832321,
-    "longitude": 17.5889082,
-    "description": "Návštevníci univerzity a univerzitnej knižnice možnosť využívať tzv. „Otvorenú knižnicu: prines, zober si, vráť alebo si nechaj“, ktorá sa nachádza pred vchodom do univerzitnej knižnice. O priestor sa stará Univerzitná knižnica.<br><br>http://www.ucm.sk/"
+    "id": 86,
+    "nazov": "Univerzitná knižnica UCM v Trnave",
+    "lat": 48.3832321,
+    "lng": 17.5889082
   },
   {
-    "name": "Hody",
-    "latitude": 48.2027731,
-    "longitude": 17.7096277,
-    "description": "Knižná búdka sa nachádza v Saleziánskom parku v parku v Hodoch. O búdku sa stará Dušana Takáčová a Natália Stanková.<br><br>T: +421 908 760 886"
+    "id": 87,
+    "nazov": "Hody",
+    "lat": 48.2027731,
+    "lng": 17.7096277
   },
   {
-    "name": "Horné Saliby",
-    "latitude": 48.1233793,
-    "longitude": 17.7476352,
-    "description": "Knižné búdky Hornosalibské sestry sa nachádzajú pri obecnej knižnici. O búdku sa stará Martina Jančovičová, Občianske združenie Rozprávky pre detičky, Horné Saliby<br><br>T: +421 917 554 455"
+    "id": 88,
+    "nazov": "Horné Saliby",
+    "lat": 48.1233793,
+    "lng": 17.7476352
   },
   {
-    "name": "Holíč vlaková stanica",
-    "latitude": 48.8146303,
-    "longitude": 17.1502437,
-    "description": "Knižná búdka sa nachádza v čakárni na železničnej stanici. O búdku sa stará SOŠ Holíč.<br><br>E: katarina.micova@sosholic.sk"
+    "id": 89,
+    "nazov": "Holíč vlaková stanica",
+    "lat": 48.8146303,
+    "lng": 17.1502437
   },
   {
-    "name": "Holíč",
-    "latitude": 48.8107195,
-    "longitude": 17.1602826,
-    "description": "Knižná búdka sa nachádza na detskom ihrisku pri zámku. O búdku sa stará SOŠ Holíč.<br><br>E: katarina.micova@sosholic.sk"
+    "id": 90,
+    "nazov": "Holíč",
+    "lat": 48.8107195,
+    "lng": 17.1602826
   },
   {
-    "name": "Holíč",
-    "latitude": 48.8101649,
-    "longitude": 17.1631164,
-    "description": "Knižná búdka sa nachádza pri školskej reštaurácii Collegium. O búdku sa stará SOŠ Holíč.<br><br>E: katarina.micova@sosholic.sk"
+    "id": 91,
+    "nazov": "Holíč",
+    "lat": 48.8101649,
+    "lng": 17.1631164
   },
   {
-    "name": "Šenkvice - Terminál",
-    "latitude": 48.3021657,
-    "longitude": 17.346387,
-    "description": "Knižná búdka sa nachádza pri prestupnom termináli. O búdku sa stará obec Šenkvice.<br><br>E: sekretariat@senkvice.eu<br>T: +421 336 496 311"
+    "id": 92,
+    "nazov": "Šenkvice - Terminál",
+    "lat": 48.3021657,
+    "lng": 17.346387
   },
   {
-    "name": "Šenkvice - Cerové",
-    "latitude": 48.2920489,
-    "longitude": 17.3573879,
-    "description": "Knižná búdka sa nachádza pri MŠ v Šenkviciach. O búdku sa stará Obec Šenkvice.<br><br>E: sekretariat@senkvice.eu<br>T: +421 336 496 311"
+    "id": 93,
+    "nazov": "Šenkvice - Cerové",
+    "lat": 48.2920489,
+    "lng": 17.3573879
   },
   {
-    "name": "Šenkvice - Vinohradská",
-    "latitude": 48.2965858,
-    "longitude": 17.3453718,
-    "description": "Knižná búdka sa nachádza na Vinohradskej 64. O búdku sa stará rodina Porubčanová a Laczová<br><br>E: barboraporubcanova@pamatsrdca.sk"
+    "id": 94,
+    "nazov": "Šenkvice - Vinohradská",
+    "lat": 48.2965858,
+    "lng": 17.3453718
   },
   {
-    "name": "Šenkvice - Námestie",
-    "latitude": 48.2970171,
-    "longitude": 17.3468899,
-    "description": "Knižná búdka sa nachádza na Námestí Gabriela Kolinoviča. O búdku sa stará obec Šenkvice.<br><br>E: sekretariat@senkvice.eu<br>T: +421 336 496 311"
+    "id": 95,
+    "nazov": "Šenkvice - Námestie",
+    "lat": 48.2970171,
+    "lng": 17.3468899
   },
   {
-    "name": "Jelka",
-    "latitude": 48.1471403,
-    "longitude": 17.5037142,
-    "description": "Knižná búdka sa nachádza v obci Jelka, na plote rodinného domu na ulici Nová cesta č. 57. O búdku sa stará Richard Rusnák.<br><br>E: kniznabudka.jelka@gmail.com"
+    "id": 96,
+    "nazov": "Jelka",
+    "lat": 48.1471403,
+    "lng": 17.5037142
   },
   {
-    "name": "Slovenský Grob",
-    "latitude": 48.2413901,
-    "longitude": 17.2591182,
-    "description": "Knižná búdka sa nachádza na detskom ihrisku pri Malorajskom jazere. O búdku sa stará Tomáš Líška.<br><br>E: tomas.liska92@gmail.com"
+    "id": 97,
+    "nazov": "Slovenský Grob",
+    "lat": 48.2413901,
+    "lng": 17.2591182
   },
   {
-    "name": "Bratislava - Rača",
-    "latitude": 48.214973,
-    "longitude": 17.1602073,
-    "description": "Knižná búdka sa nachádza v parku pri ZŠ Tbiliská. O búdku sa stará Metropolitný inštitút Bratislavy.<br><br>E: info@mib.sk"
+    "id": 98,
+    "nazov": "Bratislava - Rača",
+    "lat": 48.214973,
+    "lng": 17.1602073
   },
   {
-    "name": "Prievoz",
-    "latitude": 48.1490588,
-    "longitude": 17.1712786,
-    "description": "Knižná búdka sa nachádza v parčíku na Radničnom námestí v Prievoze. O búdku sa stará OZ Náš Prievoz.<br><br>E: nasprievoz@nasprievoz.sk"
+    "id": 99,
+    "nazov": "Prievoz",
+    "lat": 48.1490588,
+    "lng": 17.1712786
   },
   {
-    "name": "Bratislava - Mestská časť Vrakuňa",
-    "latitude": 48.1433268,
-    "longitude": 17.2068028,
-    "description": "Knižná búdka sa nachádza na Poľnohospodárskej ulici na pešej zóne, oproti vchodu do Slovenskej pošty. O búdku sa stará Miestna knižnica Vrakuňa.<br><br>E: kniznica@vrakuna.sk"
+    "id": 100,
+    "nazov": "Bratislava - Mestská časť Vrakuňa",
+    "lat": 48.1433268,
+    "lng": 17.2068028
   },
   {
-    "name": "Čunovo - MŠ Hraničiarska",
-    "latitude": 48.0325904,
-    "longitude": 17.2008117,
-    "description": "Knižná búdka sa nachádza pri MŠ Hraničiarska (metská časť Bratislava - Čunovo), o búdku sa stará MŠ.<br><br>E: skolka@mc-cunovo.sk<br>T: +421 262 850 623"
+    "id": 101,
+    "nazov": "Čunovo - MŠ Hraničiarska",
+    "lat": 48.0325904,
+    "lng": 17.2008117
   },
   {
-    "name": "Apollo Business Centrum II",
-    "latitude": 48.1458648,
-    "longitude": 17.1390619,
-    "description": "Knižná búdka sa nachádza pri Apollo Business Centrum II (námestie s fontánou medzi office budovami). O búdku sa stará Michaela Hamranová.<br><br>E: Michaela.Hamranova@hbreavis.com"
+    "id": 102,
+    "nazov": "Apollo Business Centrum II",
+    "lat": 48.1458648,
+    "lng": 17.1390619
   },
   {
-    "name": "Kukorelliho park",
-    "latitude": 48.152541,
-    "longitude": 17.1298497,
-    "description": "Knižná búdka sa nachádza v Kukorelliho parku. O búdku sa stará združenie Kukorelli.<br><br>E: info@kukorelli.sk"
+    "id": 103,
+    "nazov": "Kukorelliho park",
+    "lat": 48.152541,
+    "lng": 17.1298497
   },
   {
-    "name": "Letná čitáreň, Medická záhrada, Bratislava",
-    "latitude": 48.1491493,
-    "longitude": 17.1202803,
-    "description": "Knižná búdka sa nachádza v letnej čitárni v Medickej záhrade (obojstranne nainštalovaná na stojane altánku letnej čitárne). O búdku sa stará Staromestská knižnica Bratislava.<br><br>E: kniznica@starlib.sk"
+    "id": 104,
+    "nazov": "Letná čitáreň, Medická záhrada, Bratislava",
+    "lat": 48.1491493,
+    "lng": 17.1202803
   },
   {
-    "name": "Múdrobúdka, Základná škola Mudroňova 83, Bratislava",
-    "latitude": 48.1501694,
-    "longitude": 17.090521,
-    "description": "Knižná búdka sa nachádza pred Základnou školou Mudroňova 83, prezývaná Múdrobúdka. O búdku sa stará Staromestská knižnica Bratislava.<br><br>E: kniznica@starlib.sk"
+    "id": 105,
+    "nazov": "Múdrobúdka, Základná škola Mudroňova 83, Bratislava",
+    "lat": 48.1501694,
+    "lng": 17.090521
   },
   {
-    "name": "Čerešne",
-    "latitude": 48.1772031,
-    "longitude": 17.0542229,
-    "description": "Knižná búdka sa nachádza pri komunitnom bývaní Čerešne (časť Dúbravka) o búdku sa stará ITB Development<br><br>E: itb@itb.sk<br>T: +421 232 101 721"
+    "id": 106,
+    "nazov": "Čerešne",
+    "lat": 48.1772031,
+    "lng": 17.0542229
   },
   {
-    "name": "Záhorská Bystrica",
-    "latitude": 48.2348507,
-    "longitude": 17.0428156,
-    "description": "Knižná búdka sa nachádza na ul. Antona Floreka 2. O búdku sa stará SPRAVME VIAC, o. z.<br><br>T: +421 915 758 974"
+    "id": 107,
+    "nazov": "Záhorská Bystrica",
+    "lat": 48.2348507,
+    "lng": 17.0428156
   },
   {
-    "name": "Oddychový Park na Grbe",
-    "latitude": 48.2118372,
-    "longitude": 16.9770546,
-    "description": "Knižná búdka sa nachádza v Devínskej Novej Vsi, v oddychovom parku na Grbe. O búdku sa stará samospráva.<br><br>T: +4210232333332<br>E: mudnv@mudnv.sk"
+    "id": 108,
+    "nazov": "Oddychový Park na Grbe",
+    "lat": 48.2118372,
+    "lng": 16.9770546
   },
   {
-    "name": "Jakubov",
-    "latitude": 48.4136393,
-    "longitude": 16.9260595,
-    "description": "Knižná búdka sa nachádza v obci Jakubov na Jakubovskom námestí. O búdku sa stará Jozef Dančík.<br><br>E: jozef.dancik@gmail.com"
+    "id": 109,
+    "nazov": "Jakubov",
+    "lat": 48.4136393,
+    "lng": 16.9260595
   },
   {
-    "name": "Dulovo námestie - Žufaňa",
-    "latitude": 48.150178,
-    "longitude": 17.1340909,
-    "description": "Knižná búdka sa nachádza na Dulovom námestí na severnej strane Domu posádkovej hudby. O búdku sa stará Žufaňa, s.r.o..<br><br>E: jedlo@zufana.sk<br>T: +421 904 199 173"
+    "id": 110,
+    "nazov": "Dulovo námestie - Žufaňa",
+    "lat": 48.150178,
+    "lng": 17.1340909
   },
   {
-    "name": "Bratislava - Kino Nostalgia Nivy",
-    "latitude": 48.1503946,
-    "longitude": 17.1287797,
-    "description": "Knižná búdka sa nachádza vedľa vchodu do Domu kultúry Nivy. O búdku sa stará Knižnica Ružinov.<br><br> E: um@kniznica-ruzinov.sk"
+    "id": 111,
+    "nazov": "Bratislava - Kino Nostalgia Nivy",
+    "lat": 48.1503946,
+    "lng": 17.1287797
   },
   {
-    "name": "Knižná búdka ZŠ Kulíškova",
-    "latitude": 48.1509712,
-    "longitude": 17.1312223,
-    "description": "Knižná búdka sa nachádza v areáli základnej školy na Kulíškovej 8, K búdke sa dá dostať iba vtedy, keď je areál otvorený.<br><br>E: skola@zskuliskova.sk"
+    "id": 112,
+    "nazov": "Knižná búdka ZŠ Kulíškova",
+    "lat": 48.1509712,
+    "lng": 17.1312223
   },
   {
-    "name": "ZŠ Kulíškova",
-    "latitude": 48.1515635,
-    "longitude": 17.1309917,
-    "description": "Knižná búdka sa nachádza v areáli základnej školy na Kulíškovej 8. K búdke sa dá dostať iba vtedy, keď je areál otvorený.<br><br>E: skola@zskuliskova.sk"
+    "id": 113,
+    "nazov": "ZŠ Kulíškova",
+    "lat": 48.1515635,
+    "lng": 17.1309917
   },
   {
-    "name": "Prešov",
-    "latitude": 48.9972786,
-    "longitude": 21.2394241,
-    "description": "Knižná búdka sa nachádza v Prešove na ulici Hlavná 73, vchod je z Floriánovej ulice.<br><br>O búdku sa stará: Podaj Ďalej, o. z.<br>E: podajdalejpresov@gmail.com"
+    "id": 114,
+    "nazov": "Prešov",
+    "lat": 48.9972786,
+    "lng": 21.2394241
   },
   {
-    "name": "Martin - Priekopa",
-    "latitude": 49.1007926,
-    "longitude": 18.9283998,
-    "description": "Knižná búdka sa nachádza v Martine - mestská časť Priekopa, ulica Priehradná - v blízkom parku pri vstupe do budovy materskej školy. O búdku sa stará Občianske združenie METRO.<br><br>E: koordinator@projektmetro.sk"
+    "id": 115,
+    "nazov": "Martin - Priekopa",
+    "lat": 49.1007926,
+    "lng": 18.9283998
   },
   {
-    "name": "Martin - Priekopa",
-    "latitude": 49.1064163,
-    "longitude": 18.9305109,
-    "description": "Knižná búdka sa nachádza stĺpe verejného osvetlenia pri detskom ihrisku pred ZŠ s MŠ Dolinského<br><br>O búdku sa stará: METRO, o. z.<br>E: koordinator@projektmetro.sk"
+    "id": 116,
+    "nazov": "Martin - Priekopa",
+    "lat": 49.1064163,
+    "lng": 18.9305109
   }
 ]
