@@ -694,5 +694,59 @@
     "nazov": "Martin - Priekopa",
     "lat": 49.1064163,
     "lng": 18.9305109
+  },
+  {
+    "id": 117,
+    "nazov": "Komárnická",
+    "lat": 48.1575661,
+    "lng": 17.1524289
+  },
+  {
+    "id": 118,
+    "nazov": "ZŠ Pavla Marcelyho budka 1",
+    "lat": 48.1596669,
+    "lng": 17.1518972
+  },
+  {
+    "id": 119,
+    "nazov": "ZŠ Pavla Marcelyho budka 2",
+    "lat": 48.159969,
+    "lng": 17.1514613
+  },
+  {
+    "id": 120,
+    "nazov": "Štrkovecká Lodenica",
+    "lat": 48.1584185,
+    "lng": 17.1489474
+  },
+  {
+    "id": 121,
+    "nazov": "Medická Záhrada",
+    "lat": 48.1491293,
+    "lng": 17.1206639
+  },
+  {
+    "id": 122,
+    "nazov": "Park Račianske Mýto",
+    "lat": 48.1591058,
+    "lng": 17.1186639
+  },
+  {
+    "id": 123,
+    "nazov": "Bistro Lodenica Dvořákovo Nabrežie",
+    "lat": 48.1399411,
+    "lng": 17.0972234
+  },
+  {
+    "id": 124,
+    "nazov": "Vodárenská záhrada",
+    "lat": 48.1470576,
+    "lng": 17.0616294
+  },
+  {
+    "id": 125,
+    "nazov": "Nám Sv. Františka",
+    "lat": 48.1592802,
+    "lng": 17.0523292
   }
 ]
