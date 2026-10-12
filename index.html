@@ -14,6 +14,19 @@
 </div>
 <div id="map"></div>
 <button id="btn">Nájdi najbližšiu búdku</button>
+<button id="add-btn" type="button">＋ Pridať búdku</button>
+<form id="add-form" class="add-form" hidden>
+<div class="form-heading"><h2>Navrhnúť búdku</h2><button id="close-form" type="button" aria-label="Zavrieť formulár">×</button></div>
+<label for="booth-name">Názov búdky</label>
+<input id="booth-name" name="nazov" type="text" maxlength="100" required placeholder="Napr. Búdka pri parku">
+<button id="location-btn" class="location-button" type="button">Pridať búdku z mojej polohy</button>
+<p id="location-status" class="location-status" aria-live="polite">Použi GPS alebo zadaj súradnice ručne.</p>
+<div class="coordinates">
+<label>Šírka <input id="latitude" name="lat" type="number" step="any" min="-90" max="90" required placeholder="48.1486"></label>
+<label>Dĺžka <input id="longitude" name="lng" type="number" step="any" min="-180" max="180" required placeholder="17.1077"></label>
+</div>
+<button class="submit-button" type="submit">Uložiť návrh</button>
+</form>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="app.js"></script>
 </body>
